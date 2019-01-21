@@ -1,0 +1,1 @@
+This project will follow chapters 3 to 10 of Tango With Django.
